@@ -1,4 +1,7 @@
 # This is Food Order website clone, prisma studio and docker is used.
+![Screenshot 2024-06-14 143601](https://github.com/Siddharth-Pandore/food_order_clone/assets/139606136/5366fd4b-1c7a-4b30-bde6-a8b1da5fab46)
+![Screenshot 2024-06-14 143619](https://github.com/Siddharth-Pandore/food_order_clone/assets/139606136/ce82ed89-5d56-4931-bc98-071ea98f52b0)
+![Screenshot 2024-06-14 143633](https://github.com/Siddharth-Pandore/food_order_clone/assets/139606136/583caae6-61dc-413f-a1d8-830efc783f5d)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
